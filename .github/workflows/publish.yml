@@ -22,7 +22,7 @@ jobs:
         key: ${{ runner.os }}-mix-${{ hashFiles('**/mix.lock') }}
         restore-keys: ${{ runner.os }}-mix-
     - name: Install dependencies
-      run: mix deps.get, deps.compile
+      run: mix deps.get
     - name: Build Package
       run: mix hex.build
     - name: Publish Package

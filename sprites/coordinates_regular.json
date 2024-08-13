@@ -1,0 +1,980 @@
+{
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/address-book.png": {
+    "x": 400,
+    "y": 114,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/address-card.png": {
+    "x": 600,
+    "y": 550,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/bell-slash.png": {
+    "x": 650,
+    "y": 88,
+    "width": 50,
+    "height": 40
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/bell.png": {
+    "x": 200,
+    "y": 214,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/bookmark.png": {
+    "x": 100,
+    "y": 0,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/building.png": {
+    "x": 0,
+    "y": 80,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/calendar-check.png": {
+    "x": 250,
+    "y": 214,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/calendar-days.png": {
+    "x": 300,
+    "y": 0,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/calendar-minus.png": {
+    "x": 300,
+    "y": 57,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/calendar-plus.png": {
+    "x": 300,
+    "y": 114,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/calendar-xmark.png": {
+    "x": 300,
+    "y": 171,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/calendar.png": {
+    "x": 0,
+    "y": 281,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/chart-bar.png": {
+    "x": 400,
+    "y": 164,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/chess-bishop.png": {
+    "x": 0,
+    "y": 0,
+    "width": 50,
+    "height": 80
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/chess-king.png": {
+    "x": 50,
+    "y": 281,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/chess-knight.png": {
+    "x": 100,
+    "y": 281,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/chess-pawn.png": {
+    "x": 50,
+    "y": 0,
+    "width": 50,
+    "height": 80
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/chess-queen.png": {
+    "x": 400,
+    "y": 214,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/chess-rook.png": {
+    "x": 150,
+    "y": 281,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/circle-check.png": {
+    "x": 400,
+    "y": 264,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/circle-dot.png": {
+    "x": 400,
+    "y": 314,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/circle-down.png": {
+    "x": 350,
+    "y": 285,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/circle-left.png": {
+    "x": 300,
+    "y": 228,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/circle-pause.png": {
+    "x": 0,
+    "y": 395,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/circle-play.png": {
+    "x": 50,
+    "y": 395,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/circle-question.png": {
+    "x": 100,
+    "y": 395,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/circle-right.png": {
+    "x": 150,
+    "y": 395,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/circle-stop.png": {
+    "x": 200,
+    "y": 395,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/circle-up.png": {
+    "x": 250,
+    "y": 395,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/circle-user.png": {
+    "x": 300,
+    "y": 395,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/circle-xmark.png": {
+    "x": 350,
+    "y": 395,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/circle.png": {
+    "x": 400,
+    "y": 395,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/clipboard.png": {
+    "x": 50,
+    "y": 80,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/clock.png": {
+    "x": 450,
+    "y": 0,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/clone.png": {
+    "x": 450,
+    "y": 50,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/closed-captioning.png": {
+    "x": 550,
+    "y": 500,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/comment-dots.png": {
+    "x": 450,
+    "y": 100,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/comment.png": {
+    "x": 450,
+    "y": 150,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/comments.png": {
+    "x": 650,
+    "y": 128,
+    "width": 50,
+    "height": 40
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/compass.png": {
+    "x": 450,
+    "y": 200,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/copy.png": {
+    "x": 200,
+    "y": 281,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/copyright.png": {
+    "x": 450,
+    "y": 250,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/credit-card.png": {
+    "x": 500,
+    "y": 450,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/envelope-open.png": {
+    "x": 450,
+    "y": 300,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/envelope.png": {
+    "x": 450,
+    "y": 350,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/eye-slash.png": {
+    "x": 650,
+    "y": 168,
+    "width": 50,
+    "height": 40
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/eye.png": {
+    "x": 450,
+    "y": 400,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-angry.png": {
+    "x": 0,
+    "y": 445,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-dizzy.png": {
+    "x": 50,
+    "y": 445,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-flushed.png": {
+    "x": 100,
+    "y": 445,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-frown-open.png": {
+    "x": 150,
+    "y": 445,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-frown.png": {
+    "x": 200,
+    "y": 445,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-grimace.png": {
+    "x": 250,
+    "y": 445,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-grin-beam-sweat.png": {
+    "x": 300,
+    "y": 445,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-grin-beam.png": {
+    "x": 350,
+    "y": 445,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-grin-hearts.png": {
+    "x": 400,
+    "y": 445,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-grin-squint-tears.png": {
+    "x": 450,
+    "y": 445,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-grin-squint.png": {
+    "x": 500,
+    "y": 0,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-grin-stars.png": {
+    "x": 500,
+    "y": 50,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-grin-tears.png": {
+    "x": 650,
+    "y": 208,
+    "width": 50,
+    "height": 40
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-grin-tongue-squint.png": {
+    "x": 500,
+    "y": 100,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-grin-tongue-wink.png": {
+    "x": 500,
+    "y": 150,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-grin-tongue.png": {
+    "x": 500,
+    "y": 200,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-grin-wide.png": {
+    "x": 500,
+    "y": 250,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-grin-wink.png": {
+    "x": 500,
+    "y": 300,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-grin.png": {
+    "x": 500,
+    "y": 350,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-kiss-beam.png": {
+    "x": 500,
+    "y": 400,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-kiss-wink-heart.png": {
+    "x": 0,
+    "y": 495,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-kiss.png": {
+    "x": 50,
+    "y": 495,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-laugh-beam.png": {
+    "x": 100,
+    "y": 495,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-laugh-squint.png": {
+    "x": 150,
+    "y": 495,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-laugh-wink.png": {
+    "x": 200,
+    "y": 495,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-laugh.png": {
+    "x": 250,
+    "y": 495,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-meh-blank.png": {
+    "x": 300,
+    "y": 495,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-meh.png": {
+    "x": 350,
+    "y": 495,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-rolling-eyes.png": {
+    "x": 400,
+    "y": 495,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-sad-cry.png": {
+    "x": 450,
+    "y": 495,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-sad-tear.png": {
+    "x": 500,
+    "y": 495,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-smile-beam.png": {
+    "x": 550,
+    "y": 0,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-smile-wink.png": {
+    "x": 550,
+    "y": 50,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-smile.png": {
+    "x": 550,
+    "y": 100,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-surprise.png": {
+    "x": 550,
+    "y": 150,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/face-tired.png": {
+    "x": 550,
+    "y": 200,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/file-audio.png": {
+    "x": 100,
+    "y": 80,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/file-code.png": {
+    "x": 150,
+    "y": 0,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/file-excel.png": {
+    "x": 150,
+    "y": 67,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/file-image.png": {
+    "x": 200,
+    "y": 0,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/file-lines.png": {
+    "x": 200,
+    "y": 67,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/file-pdf.png": {
+    "x": 550,
+    "y": 250,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/file-powerpoint.png": {
+    "x": 0,
+    "y": 147,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/file-video.png": {
+    "x": 50,
+    "y": 147,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/file-word.png": {
+    "x": 100,
+    "y": 147,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/file-zipper.png": {
+    "x": 150,
+    "y": 147,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/file.png": {
+    "x": 200,
+    "y": 147,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/flag.png": {
+    "x": 250,
+    "y": 281,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/floppy-disk.png": {
+    "x": 300,
+    "y": 281,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/folder-closed.png": {
+    "x": 550,
+    "y": 300,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/folder-open.png": {
+    "x": 100,
+    "y": 595,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/folder.png": {
+    "x": 550,
+    "y": 350,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/font-awesome.png": {
+    "x": 550,
+    "y": 400,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/futbol.png": {
+    "x": 550,
+    "y": 450,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/gem.png": {
+    "x": 0,
+    "y": 545,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/hand-back-fist.png": {
+    "x": 350,
+    "y": 0,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/hand-lizard.png": {
+    "x": 50,
+    "y": 545,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/hand-peace.png": {
+    "x": 100,
+    "y": 545,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/hand-point-down.png": {
+    "x": 250,
+    "y": 0,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/hand-point-left.png": {
+    "x": 150,
+    "y": 545,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/hand-point-right.png": {
+    "x": 200,
+    "y": 545,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/hand-point-up.png": {
+    "x": 250,
+    "y": 67,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/hand-pointer.png": {
+    "x": 350,
+    "y": 57,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/hand-scissors.png": {
+    "x": 250,
+    "y": 545,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/hand-spock.png": {
+    "x": 150,
+    "y": 595,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/hand.png": {
+    "x": 300,
+    "y": 545,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/handshake.png": {
+    "x": 650,
+    "y": 248,
+    "width": 50,
+    "height": 40
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/hard-drive.png": {
+    "x": 350,
+    "y": 545,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/heart.png": {
+    "x": 400,
+    "y": 545,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/hospital.png": {
+    "x": 650,
+    "y": 288,
+    "width": 50,
+    "height": 40
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/hourglass-half.png": {
+    "x": 250,
+    "y": 134,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/hourglass.png": {
+    "x": 0,
+    "y": 214,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/id-badge.png": {
+    "x": 50,
+    "y": 214,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/id-card.png": {
+    "x": 200,
+    "y": 595,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/image.png": {
+    "x": 450,
+    "y": 545,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/images.png": {
+    "x": 250,
+    "y": 595,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/keyboard.png": {
+    "x": 300,
+    "y": 595,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/lemon.png": {
+    "x": 350,
+    "y": 114,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/life-ring.png": {
+    "x": 500,
+    "y": 545,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/lightbulb.png": {
+    "x": 100,
+    "y": 214,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/map.png": {
+    "x": 350,
+    "y": 595,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/message.png": {
+    "x": 550,
+    "y": 545,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/money-bill-1.png": {
+    "x": 400,
+    "y": 595,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/moon.png": {
+    "x": 150,
+    "y": 214,
+    "width": 50,
+    "height": 67
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/newspaper.png": {
+    "x": 600,
+    "y": 0,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/note-sticky.png": {
+    "x": 350,
+    "y": 171,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/object-group.png": {
+    "x": 450,
+    "y": 595,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/object-ungroup.png": {
+    "x": 650,
+    "y": 328,
+    "width": 50,
+    "height": 40
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/paper-plane.png": {
+    "x": 600,
+    "y": 50,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/paste.png": {
+    "x": 600,
+    "y": 100,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/pen-to-square.png": {
+    "x": 600,
+    "y": 150,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/rectangle-list.png": {
+    "x": 500,
+    "y": 595,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/rectangle-xmark.png": {
+    "x": 600,
+    "y": 200,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/registered.png": {
+    "x": 600,
+    "y": 250,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/share-from-square.png": {
+    "x": 550,
+    "y": 595,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/snowflake.png": {
+    "x": 350,
+    "y": 228,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/square-caret-down.png": {
+    "x": 0,
+    "y": 338,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/square-caret-left.png": {
+    "x": 50,
+    "y": 338,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/square-caret-right.png": {
+    "x": 100,
+    "y": 338,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/square-caret-up.png": {
+    "x": 150,
+    "y": 338,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/square-check.png": {
+    "x": 200,
+    "y": 338,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/square-full.png": {
+    "x": 600,
+    "y": 300,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/square-minus.png": {
+    "x": 250,
+    "y": 338,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/square-plus.png": {
+    "x": 300,
+    "y": 338,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/square.png": {
+    "x": 350,
+    "y": 338,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/star-half-stroke.png": {
+    "x": 600,
+    "y": 595,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/star-half.png": {
+    "x": 650,
+    "y": 0,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/star.png": {
+    "x": 650,
+    "y": 44,
+    "width": 50,
+    "height": 44
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/sun.png": {
+    "x": 600,
+    "y": 350,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/thumbs-down.png": {
+    "x": 600,
+    "y": 400,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/thumbs-up.png": {
+    "x": 600,
+    "y": 450,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/trash-can.png": {
+    "x": 400,
+    "y": 0,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/user.png": {
+    "x": 400,
+    "y": 57,
+    "width": 50,
+    "height": 57
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/window-maximize.png": {
+    "x": 600,
+    "y": 500,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/window-minimize.png": {
+    "x": 0,
+    "y": 595,
+    "width": 50,
+    "height": 50
+  },
+  "/Users/n1505471/Developer/local/scenic-font-awesome/pngs/dark/regular/window-restore.png": {
+    "x": 50,
+    "y": 595,
+    "width": 50,
+    "height": 50
+  }
+}

@@ -24,7 +24,7 @@ defmodule MyApplication.Assets do
     otp_app: :my_application,
     sources: [
       "assets",
-      "deps/scenic_fontawesome/assets",
+      "deps/scenic_fontawesome/assets", # Includes the FontAwesome icons as assets
       {:scenic, "deps/scenic/assets"}
     ]
 end

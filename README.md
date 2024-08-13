@@ -1,5 +1,9 @@
 # Scenic FontAwesome
 
+[![Hex version badge](https://img.shields.io/hexpm/v/scenic_fontawesome.svg)](https://hex.pm/packages/scenic_fontawesome)
+[![Build Status](https://github.com/dtraft/scenic_fontawesome/actions/workflows/test.yml/badge.svg)](https://github.com/dtraft/scenic_fontawesome/actions/workflows/test.yml)
+[![License badge](https://img.shields.io/hexpm/l/scenic_fontawesome.svg)](https://github.com/dtraft/scenic_fontawesome/blob/main/LICENSE)
+
 ## About
 
 Scenic FontAwesome is a library which provides helper functions to render all free [FontAwesome](https://fontawesome.com/search?o=r&m=free) icons in an Elixir [Scenic](https://hexdocs.pm/scenic/) application.
@@ -10,7 +14,7 @@ The package can be installed by adding `scenic_fontawesome` to your list of depe
 
 ```elixir
 def deps do
-  [{:scenic_fontawesome, "~> 0.1"}]
+  [{:scenic_fontawesome, "~> 0.1.1"}]
 end
 ```
 

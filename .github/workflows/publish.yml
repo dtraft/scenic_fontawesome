@@ -8,8 +8,12 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - uses: actions/checkout@v4
+      with:
+        ref: ${{ github.head_ref }}
     - name: Set up Elixir
       uses: erlef/setup-beam@v1 # v1.16.0
       with:
@@ -29,5 +33,12 @@ jobs:
       run: mix hex.publish --yes
       env:
           HEX_API_KEY: ${{ secrets.HEX_API_KEY }}
-          
+    - name: Prep for Next Release
+      run: mix bump patch
+    - name: Commit version bump
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Prepare for next release
+        branch: main
+              
         

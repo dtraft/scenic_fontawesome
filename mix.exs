@@ -1,7 +1,7 @@
 defmodule ScenicFontAwesome.MixProject do
   use Mix.Project
 
-  @version "0.1.0"
+  @version "0.1.1"
   @source_url "https://github.com/dtraft/scenic_fontawesome"
 
   def project do
@@ -33,7 +33,9 @@ defmodule ScenicFontAwesome.MixProject do
     [
       {:scenic, "~> 0.11.0"},
       {:ex_doc, "~> 0.34.2", only: :dev, runtime: false},
-      {:mneme, ">= 0.0.0", only: [:dev, :test]}
+      {:mneme, ">= 0.0.0", only: [:dev, :test]},
+      {:versioce, "~> 2.0.0", only: :dev},
+      {:git_cli, "~> 0.3.0", only: :dev}
     ]
   end
 

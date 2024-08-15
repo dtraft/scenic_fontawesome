@@ -31,7 +31,7 @@ defmodule ScenicFontAwesome.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:scenic, "~> 0.11.0"},
+      {:scenic, "~> 0.12.0-rc.0"},
       {:ex_doc, "~> 0.34.2", only: :dev, runtime: false},
       {:mneme, ">= 0.0.0", only: [:dev, :test]},
       {:versioce, "~> 2.0.0", only: :dev},
